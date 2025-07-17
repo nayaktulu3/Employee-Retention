@@ -25,14 +25,8 @@ In today's dynamic business landscape, retaining top talent is crucial for organ
 Contributions and feedback are highly encouraged! Feel free to submit pull requests, open issues, or suggest enhancements. Let's work together to enhance our understanding of employee retention in the HR domain.
 
 **Acknowledgments:**
-I would like to express my gratitude to [Data Source Provider] for sharing the dataset used in this project.
+I would like to express my gratitude to **MERISKILLS** for sharing the dataset used in this project.
 
 Explore the project, gain insights, and make informed decisions to strengthen your organization's HR strategies. Your contributions and engagement are invaluable in our journey to optimize employee retention.
-
-**Get Started:**
-[Link to Getting Started Documentation]
-
-**License:**
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
 
 Thank you for visiting, and I look forward to your collaboration and feedback!
